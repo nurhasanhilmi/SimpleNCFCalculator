@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Simple NCF Calculator</string>
+
+    <string-array name="basis_opex">
+        <item>Perbarel Produksi Minyak</item>
+        <item>Rata-rata Biaya Pertahun</item>
+    </string-array>
+
+    <string-array name="satuan_opex">
+        <item>Biaya Operasi ($ /bbl)</item>
+        <item>Biaya Operasi ($ M/tahun)</item>
+    </string-array>
+
+    <string-array name="metode_depresiasi">
+        <item>Straight Line</item>
+        <item>Declining Balance</item>
+        <item>Double Declining Balance</item>
+        <item>Unit of Production</item>
+        <item>Sum of The Year</item>
+    </string-array>
+</resources>
